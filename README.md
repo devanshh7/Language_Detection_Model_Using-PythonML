@@ -1,1 +1,2 @@
 # Language_Detection_Model_Using-PythonML
+This project centers on developing a language detection model designed to identify 22 distinct languages using a dataset of 20,000 entries. The primary objective is to accurately predict the language of any given text by employing advanced machine learning techniques. Various libraries and methods for data manipulation, text processing, and model building were utilized throughout the project. The model achieved an impressive 95.33% accuracy in both training and testing phases, showcasing its effectiveness in language identification.
